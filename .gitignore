@@ -2,3 +2,8 @@ workspace/*/.settings/
 .classpath
 .project
 workspace/**/.gitignore
+/.metadata/
+Servers/
+SemiPrjTest/.settings/
+*.MF
+SemiPrjTest/src/main/webapp/WEB-INF/.gitignore
